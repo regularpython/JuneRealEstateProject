@@ -19,7 +19,7 @@ spark = glueContext.spark_session
 # Load
 
 print("I am in bronze")
-
+print("Hi new service is added")
 
 
 job = Job(glueContext)
