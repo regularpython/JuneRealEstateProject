@@ -61,7 +61,7 @@ print("Bronze Layer Summary")
 print("=" * 80)
 
 print(f"Total Records : {bronze_df.count()}")
-
+print("Hi latest chage")
 bronze_df.printSchema()
 
 # ---------------------------------------------------------------------------------
